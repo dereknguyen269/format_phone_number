@@ -69,7 +69,7 @@ Or install it yourself as:
 FormatPhoneNumber.format(input_phone_number, country_code)
 ```
 - input_phone_number : string, required.
-- country_code : string, can be blank.
+- country_code : string, can be blank, [Country Codes List](https://www.nationsonline.org/oneworld/country_code_list.htm)
 
 Example: 
 
